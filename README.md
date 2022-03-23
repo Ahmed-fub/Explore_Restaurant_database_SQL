@@ -1,7 +1,7 @@
 # Explore_Restaurant _db_SQLite 
 
 ## Data 
-restaurant data base  
+restaurant database  
 
 It Includes different tables: 
 
