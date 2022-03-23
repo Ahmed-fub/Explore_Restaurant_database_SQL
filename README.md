@@ -15,7 +15,9 @@ CustomerID (Primary Key)	FirstName	LastName	Email	Address	City	State	Phone	Birth
 
 - Orders table  include : OrderID(PK) CustomerID(FK)	OrderDate
 
-I explores the database and add some  changes with SQLite in Python through sqlite3 : 
+I explores the database and add some  changes with SQLite in Python through sqlite3
+
+## challenges
 
 1. print menu according different conditions such as (order by price) , types 
 2. add new customers to table 
