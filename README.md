@@ -1,4 +1,4 @@
-# Explore_Restaurant _db_SQLite 
+# Explore_Restaurant _database_SQL 
 
 ## Data 
 restaurant database  
@@ -24,7 +24,7 @@ CustomerID (Primary Key)	FirstName	LastName	Email	Address	City	State	Phone	Birth
 - Python 
 - SQLite 
 
-## challenges
+## Tasks performed on this project
 
 1. Print menu according different conditions such as (order by price from low to high) , types 
 2. Add new customers to table 
